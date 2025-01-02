@@ -1,11 +1,11 @@
 ## 👋 Hello, Welcome to my visualization project 'SQL-Tableau-Viz' !
 
-<h4 align="center">This project intends to provide hands-on practice on SQL Server data development, ETL to excel and to Tableau for visuals.</h4>
+<h4 align="center">This project intends to provide hands-on practice on SQL Server data development, ETL (From SQL Server to excel and Tableau) for analysis and visuals.</h4>
 
-<!-- <p align="center">
-  <img src="./assets/dataStr.jpg" alt="Project Banner" width="800">
+<p align="center">
+  <img src="./assets/exeDash.jpg" alt="Project Banner" width="800">
 </p>
--->
+
 Please scroll down to know more about this project
 
 <div align="center">
@@ -43,6 +43,8 @@ Full Project in Tableau »(https://public.tableau.com/app/profile/paudel7/viz/Bi
 ## ✨ Demo-Preview
 
 Here are some demo we can get in this project:
+
+
 
 **Revenue by State & Store**
 <p align="center"><br>
