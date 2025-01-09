@@ -1,12 +1,15 @@
-## 👋 Hello, Welcome to my visualization project 'SQL-Tableau-Viz' !
+## <p align="center">👋 End to End Data Analysis & Visualization Project 👋 <br> <p align="center">'SQL-Tableau-Viz' !</p>
 
-<h4 align="center">This project intends to provide hands-on practice on SQL Server data development, ETL (From SQL Server to excel and Tableau) for analysis and visuals.</h4>
+<h3 align="center">Hands-on practice on SQL Server data development, ETL, & Tableau <br>(From SQL Server to Excel and Tableau) for analysis and visuals.</h3><br>
+<h3 align="center">Bike Company Sales Data Analysis.</h3>
+<h4>This project demonstrated the integration of SQL and Tableau to create an end-to-end data visualization solution that transformed raw sales data into actionable insights. The process involved meticulous data preparation, including normalization and aggregation in SQL, followed by advanced visualizations and an interactive dashboard in Tableau.
+</h4><br>
 
 <p align="center">
   <img src="./assets/exeDash.jpg" alt="Project Banner" width="800">
 </p>
 
-Please scroll down to know more about this project
+Please scroll down to know more about this project.
 
 <div align="center">
 
@@ -29,9 +32,14 @@ Please scroll down to know more about this project
 </p>
 
 ## 🎯 About The Project
-<br>
-Full Project in Tableau »(https://public.tableau.com/app/profile/paudel7/viz/BikeStoresRevenueAnalysis_17352681173400/Dashboard)
-<br>
+For more details:<br>
+[Project Documentation - Homepage>>>](https://sites.google.com/view/sqltableaubikeviz/home) <br>
+[Project Documentation - Querypage>>>](https://sites.google.com/view/sqltableaubikeviz/home/queries)<br>
+[Project Documentation - Visualpage>>>](https://sites.google.com/view/sqltableaubikeviz/home/visuals)<br>
+
+
+[Full Project in Tableau »](https://public.tableau.com/app/profile/paudel7/viz/BikeStoresRevenueAnalysis_17352681173400/Dashboard)
+
 
 **Data Structure**
 <p align="center">
@@ -42,21 +50,21 @@ Full Project in Tableau »(https://public.tableau.com/app/profile/paudel7/viz/Bi
 
 ## ✨ Demo-Preview
 
-Here are some demo we can get in this project:
+Some snapshots of this project:
 
 
 
-**Revenue by State & Store**
+**Revenue by Region & Store**
 <p align="center"><br>
 <img src="./assets/revStateStore.jpg" alt="Project Data" width="600" ><p><br>
 
 
- **State Revenue by Month**
+ **Regional Revenue by Month**
  <p align="center"> <br>
  <img src="./assets/stateRevbyMonth.jpg" alt="Project Data" width="600" ><p><br>
 
  
-**Top N Customer**
+**Top N Customer (N-Filtration) by Revenue**
 <p align="center"> <br>
 <img src="./assets/topNcust.jpg" alt="Project Data" width="600"><p><br>
 
